@@ -1,4 +1,4 @@
 var newsapi = {
-    country: 'in',
-    apiKey: ''
-}
+  country: "in",
+  apiKey: "",
+};
